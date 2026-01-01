@@ -1,4 +1,4 @@
-# Spot Refresh System
+# Spot Refresh System and hours of operation
 
 ## Overview
 
